@@ -1,0 +1,2 @@
+{:tasks
+ {repl-cljr (shell "env CLOJURE_LOAD_PATH=\"src:bin/Debug/net5.0\" clj-clr")}}
